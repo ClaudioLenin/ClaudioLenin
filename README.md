@@ -49,5 +49,6 @@
 <!--![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)-->
  ![](https://komarev.com/ghpvc/?username=ClaudioLenin)
 <!--![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioLenin&theme=blue-green)-->
-	![GitHub Contributors Image](https://contrib.rocks/image?repo=ClaudioLenin/reactapp_azesorv2)
+##   Here is a random joke that'll make you laugh!
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
 </div>

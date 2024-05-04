@@ -3,9 +3,8 @@
 
 Me presento como un desarrollador fullstack con una sólida experiencia en la creación de soluciones innovadoras y eficientes. Mi trayectoria abarca desde el diseño y desarrollo de interfaces de usuario cautivadoras hasta la implementación de sistemas robustos en el backend. Esta amplia experiencia me ha proporcionado una perspectiva integral que impulsa cada proyecto que abordo.
 
-###   Here is a random joke that'll make you laugh!
-
 ### Lenguajes y Herramientas:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Claud-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Claud-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -40,6 +39,4 @@ Estoy siempre abierto a nuevas oportunidades de colaboración y aprendizaje. Si 
 	<a href="https://www.linkedin.com/in/claudio-lenin-057238109" target="_blank">
 		<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 	</a> 
-	 
-
 </div>

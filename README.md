@@ -48,30 +48,20 @@ Estoy siempre abierto a nuevas oportunidades de colaboración y aprendizaje. Si 
 
 ---
 
-### 📺 Latest YouTube Videos
+### Últimos Proyectos
 
-<!-- YOUTUBE:START -->
-- [This VS Code AI Coding Assistant Is A Game Changer!](https://www.youtube.com/watch?v=dNskJAl5dBw)
-- [I Cannot Believe How Powerful This Headless CMS Is!](https://www.youtube.com/watch?v=43Eznupydng)
-- [I Cannot Believe How Good This VS Code AI Coding Assistant Is!](https://www.youtube.com/watch?v=TALwI3J4asY)
-- [Eddie Jaoude Explains &amp; Talks about MDX Documentation](https://www.youtube.com/watch?v=ZTX9-_MyaIw)
-- [React&#39;s Future: Tejas Kumar on Server Components](https://www.youtube.com/watch?v=zn-nFWDxyiw)
-<!-- YOUTUBE:END -->
+- [Sistema Contable Azesor](http://azesor-ec.com)
+- [Sistema de Administrativo ConduAdmin](https://administrativo.conduespoch.com)
+- [Sistema de Evaluaciones ConduEval!](https://evaluaciones.conduespoch.com/)
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [más proyectos...](#)
 
 ---
 
-### 📕 Latest Blog Posts
+### Últimas publicaciones de blog
 
-<!-- BLOG-POST-LIST:START -->
-- [Next.js 14: No New APIs &amp; Breaking Changes](https://dev.to/mongodb/nextjs-14-no-new-apis-breaking-changes-3nh3)
-- [Render ATL 2023 Trip Report](https://dev.to/codestackr/render-atl-2023-trip-report-mp4)
-- [Web Development Roadmap 2023](https://dev.to/codestackr/web-development-roadmap-2023-5beo)
-- [Getting Started with MongoDB &amp; Mongoose](https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a)
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-<!-- BLOG-POST-LIST:END -->
+- ...
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [más publicaciones...](https://medium.com/@claudiolennin)
 
 ---

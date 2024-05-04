@@ -1,5 +1,7 @@
 # Hola, soy Claudio Lenin. 👋 
 <h2>Desarrollador Fullstack | Apasionado por la Lectura, Escritura y Dibujo</h2>
+¡Hola a todos!
+Soy un desarrollador fullstack con una pasión por crear soluciones innovadoras y eficientes. Mi experiencia abarca desde el desarrollo frontend hasta el backend, lo que me permite tener una visión integral de los proyectos en los que trabajo.
 <div>
   <img src="https://raw.githubusercontent.com/ClaudioLenin/ClaudioLenin/main/banner-github.png"/>
   <a href="https://github.com/ClaudioLenin">

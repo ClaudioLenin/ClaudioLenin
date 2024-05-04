@@ -2,6 +2,7 @@
 ¡Saludos a todos!
 
 Me presento como un desarrollador fullstack con una sólida experiencia en la creación de soluciones innovadoras y eficientes. Mi trayectoria abarca desde el diseño y desarrollo de interfaces de usuario cautivadoras hasta la implementación de sistemas robustos en el backend. Esta amplia experiencia me ha proporcionado una perspectiva integral que impulsa cada proyecto que abordo.
+<img src="https://github.com/ClaudioLenin/ClaudioLenin/blob/main/banner-github.png" alt="banner">
 
 ### Conecta conmigo:
 Estoy siempre abierto a nuevas oportunidades de colaboración y aprendizaje. Si compartes intereses similares o estás interesado en trabajar juntos en un proyecto emocionante, ¡no dudes en contactarme!

@@ -1,5 +1,5 @@
 # Hola, soy Claudio Lenin. 👋
-¡Saludos a todos!
+### ¡Saludos a todos!
 
 Me presento como un desarrollador fullstack con una sólida experiencia en la creación de soluciones innovadoras y eficientes. Mi trayectoria abarca desde el diseño y desarrollo de interfaces de usuario cautivadoras hasta la implementación de sistemas robustos en el backend. Esta amplia experiencia me ha proporcionado una perspectiva integral que impulsa cada proyecto que abordo.
 
@@ -9,6 +9,9 @@ Me presento como un desarrollador fullstack con una sólida experiencia en la cr
 ### Conecta conmigo:
 Estoy siempre abierto a nuevas oportunidades de colaboración y aprendizaje. Si compartes intereses similares o estás interesado en trabajar juntos en un proyecto emocionante, ¡no dudes en contactarme!
 <div style="display: inline_block">
+	<a href="https://medium.com/@claudiolennin" target="_blank">
+		<img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
+	</a>
 	<a href="https://www.claudiolennin.com" target="_blank">
 		<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
 	</a>

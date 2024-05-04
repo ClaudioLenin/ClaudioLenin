@@ -53,7 +53,7 @@ Estoy siempre abierto a nuevas oportunidades de colaboración y aprendizaje. Si 
 ### Últimos Proyectos
 
 - [Sistema Contable Azesor](http://azesor-ec.com)
-- [Sistema de Administrativo ConduAdmin](https://administrativo.conduespoch.com)
+- [Sistema Administrativo ConduAdmin](https://administrativo.conduespoch.com)
 - [Sistema de Evaluaciones ConduEval](https://evaluaciones.conduespoch.com/)
 
 ➡️ [más proyectos...](#)

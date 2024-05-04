@@ -6,12 +6,6 @@ Me presento como un desarrollador fullstack con una sólida experiencia en la cr
 ###   Here is a random joke that'll make you laugh!
 
 ### Lenguajes y Herramientas:
-Estoy siempre abierto a nuevas oportunidades de colaboración y aprendizaje. Si compartes intereses similares o estás interesado en trabajar juntos en un proyecto emocionante, ¡no dudes en contactarme!
-
-
-### Conecta conmigo:
-
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Claud-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Claud-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -26,6 +20,11 @@ Estoy siempre abierto a nuevas oportunidades de colaboración y aprendizaje. Si 
 
 </div>
 
+### Conecta conmigo:
+Estoy siempre abierto a nuevas oportunidades de colaboración y aprendizaje. Si compartes intereses similares o estás interesado en trabajar juntos en un proyecto emocionante, ¡no dudes en contactarme!
+
+
+<div style="display: inline_block">
 	<a href="https://www.claudiolennin.com" target="_blank">
 		<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
 	</a>

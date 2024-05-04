@@ -3,6 +3,23 @@
 
 Me presento como un desarrollador fullstack con una sólida experiencia en la creación de soluciones innovadoras y eficientes. Mi trayectoria abarca desde el diseño y desarrollo de interfaces de usuario cautivadoras hasta la implementación de sistemas robustos en el backend. Esta amplia experiencia me ha proporcionado una perspectiva integral que impulsa cada proyecto que abordo.
 
+### Connect with me:
+
+[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+
 <div>
   <img src="https://raw.githubusercontent.com/ClaudioLenin/ClaudioLenin/main/banner-github.png"/>
   <a href="https://github.com/ClaudioLenin">

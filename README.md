@@ -10,10 +10,10 @@ Me presento como un desarrollador fullstack con una sólida experiencia en la cr
 Estoy siempre abierto a nuevas oportunidades de colaboración y aprendizaje. Si compartes intereses similares o estás interesado en trabajar juntos en un proyecto emocionante, ¡no dudes en contactarme!
 <div style="display: inline_block">
 	<a href="https://medium.com/@claudiolennin" target="_blank">
-		<img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
+		<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
 	</a>
 	<a href="https://www.claudiolennin.com" target="_blank">
-		<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
+		<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
 	</a>
 	<a href="https://www.facebook.com/claudiolenin" target="_blank">
 		<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">

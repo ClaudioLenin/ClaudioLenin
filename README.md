@@ -1,4 +1,4 @@
-## Hola, Soy Claudio Lenin 👋
+<h2 align="center">👋 Hola! Soy Claudio Lenin</h2>
  <div>
   <img src="https://raw.githubusercontent.com/ClaudioLenin/ClaudioLenin/main/banner-github.png"/>
   <a href="https://github.com/ClaudioLenin">

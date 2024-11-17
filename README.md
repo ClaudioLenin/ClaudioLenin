@@ -5,29 +5,6 @@ Me presento como un desarrollador fullstack con una sólida experiencia en la cr
 
 ![](https://komarev.com/ghpvc/?username=ClaudioLenin&color=green)
 
-### Conecta conmigo:
-Estoy siempre abierto a nuevas oportunidades de colaboración y aprendizaje. Si compartes intereses similares o estás interesado en trabajar juntos en un proyecto emocionante, ¡no dudes en contactarme!
-<div style="display: inline_block">
-	<a href="https://medium.com/@claudiolennin" target="_blank">
-		<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
-	</a>
-	<a href="https://www.claudiolennin.com" target="_blank">
-		<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
-	</a>
-	<a href="https://www.facebook.com/claudiolenin" target="_blank">
-		<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
-	</a> 
-	<a href="https://www.instagram.com/claudiolennin/" target="_blank">
-		<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-	</a> 
-	<a href="https://twitter.com/claudiolennin" target="_blank">
-		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
-	</a> 
-	<a href="https://www.linkedin.com/in/claudio-lenin-057238109" target="_blank">
-		<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-	</a> 
-</div>
-
 ### Lenguajes y Herramientas:
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">

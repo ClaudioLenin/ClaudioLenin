@@ -3,9 +3,6 @@
 
 Me presento como un desarrollador fullstack con una sólida experiencia en la creación de soluciones innovadoras y eficientes. Mi trayectoria abarca desde el diseño y desarrollo de interfaces de usuario cautivadoras hasta la implementación de sistemas robustos en el backend. Esta amplia experiencia me ha proporcionado una perspectiva integral que impulsa cada proyecto que abordo.
 
-
-<img src="https://github.com/ClaudioLenin/ClaudioLenin/blob/main/banner-github.png" alt="banner">
-
 ![](https://komarev.com/ghpvc/?username=ClaudioLenin&color=green)
 
 ### Conecta conmigo:
@@ -48,24 +45,3 @@ Estoy siempre abierto a nuevas oportunidades de colaboración y aprendizaje. Si 
 
 <br />
 <br />
-
----
-
-### Últimos Proyectos
-
-- [Sistema Contable ContaAdmin](http://contaadminpro.com)
-- [Sistema Contable Azesor](http://azesor-ec.com)
-- [Sistema Administrativo ConduAdmin](https://administrativo.conduespoch.com)
-- [Sistema de Evaluaciones ConduEval](https://evaluaciones.conduespoch.com/)
-
-➡️ [más proyectos...](#)
-
----
-
-### Últimas publicaciones de blog
-
-- ...
-
-➡️ [más publicaciones...](https://medium.com/@claudiolennin)
-
----
